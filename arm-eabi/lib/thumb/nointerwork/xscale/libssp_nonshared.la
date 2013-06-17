@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/test/build/toolchains/arm-eabi/tools/arm-eabi/lib/thumb/nointerwork/xscale'
+libdir='/gnutools/builds/toolchains/arm-eabi/tools/arm-eabi/lib/thumb/nointerwork/xscale'
